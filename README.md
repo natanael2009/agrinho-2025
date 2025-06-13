@@ -1,3 +1,3 @@
 # agrinho-2025
-chat gp
+chat gpt
 crie um jogo em que um caminhao colete 15 milhos e entregue no supermercado
